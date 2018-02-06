@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517664586 source:d:\git_repository\github\the-c-programming-language-solutions\ex1-2 escapesequence\main.c
+	<stdio.h>
+	<stdlib.h>
+

@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1517668128 source:d:\git_repository\github\the-c-programming-language-solutions\ex1-5 tempconvertorrev\main.c
+	<stdio.h>
+	<stdlib.h>
+
