@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1519102411 source:d:\git_repository\github\the-c-programming-language-solutions\ch1\ex1-16 printlongestline\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1543334039 source:d:\git_repository\github\the-c-programming-language-solutions\ch2\ex2-1 determine ranges\main.c
+	<stdio.h>
+	<stdint.h>
+	<stdlib.h>
+	<limits.h>
+
