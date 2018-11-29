@@ -30,15 +30,15 @@ int main(void)
   {
     //result = htoi(test[thistest]);
     result = (unsigned int)strtoul(test[thistest], &endp, 16);
-    if (endp == '\0')
+    if (*endp == '\0')
     {
         printf("Testing %s. Correct! %u\n", test[thistest], result);
-        printf("endp is %c\n", endp);
+        printf("endp is '\\0'\n");
     }
     else
     {
         printf("Testing %s. Incorrect! %u\n", test[thistest], result);
-        printf("endp is %c\n", endp);
+        printf("endp is %c\n", *endp);
     }
 
   }
